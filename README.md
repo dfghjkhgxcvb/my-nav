@@ -1,6 +1,6 @@
-# my-nav
-A curated collection of 2200+ useful websites, organized by category.
 # 我的导航 · 网址大全
+
+一个长期维护的网址收藏站…
 
 一个长期维护的网址收藏站，收录 **2200+** 个精选网站，按 22 个分类整理，
 全部人工筛选并带简介。
